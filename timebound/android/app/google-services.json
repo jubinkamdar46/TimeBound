@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1078452101641",
+    "firebase_url": "https://timebound-ae132.firebaseio.com",
+    "project_id": "timebound-ae132",
+    "storage_bucket": "timebound-ae132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078452101641:android:7ed1849447a128fdf1ced8",
+        "android_client_info": {
+          "package_name": "com.example.timebound"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078452101641-qfv0mu4209p5bs84hhlkfkfksp74e4od.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.timebound",
+            "certificate_hash": "1d10a7ff6cb529b5ddc98bbbc1b1a1dea5104c49"
+          }
+        },
+        {
+          "client_id": "1078452101641-clq5l4ilrt5oqmk4ct3246gfph9je103.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1BhwdsaXD4pKMQ962XHkyvTs94lU3Pxo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078452101641-clq5l4ilrt5oqmk4ct3246gfph9je103.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
